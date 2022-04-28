@@ -1,5 +1,5 @@
 # Bem vindo👋
-## Sou estudando do curso técnido em Informática no Senac.
+## Sou estudante do curso técnido em Informática no Senac.
 
 ### Aqui você encontrará informações sobre tecnologia e programação. Veja os meus repositórios.
 
